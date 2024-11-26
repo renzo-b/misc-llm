@@ -4,3 +4,7 @@ langchain_openai==0.2.9
 python-dotenv==1.0.1
 streamlit==1.40.1
 sse_starlette
+bs4
+pypdf
+chromadb
+faiss-cpu
